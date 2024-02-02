@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @NagarajGolai
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently learning CS engineering 
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ... nagarajgolai0@gmail.com
+Python , DSA, C
+
 
 <!---
 NagarajGolai/NagarajGolai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
