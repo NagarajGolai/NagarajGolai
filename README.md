@@ -1,4 +1,4 @@
-Python , DSA, C
+Python , DSA, C, C++, Front end development
 
 
 <!---
