@@ -1,8 +1,8 @@
-# Hi 👋, I'm Nagaraj Mallappa Golai  
+# Hi 👋, I'm Nagaraj Golai  
 
-🚀 **Computer Science Undergraduate (2022–2026)** | Full-Stack Developer | Cloud Enthusiast  
+**Computer Science Undergraduate (2022–2026)** | Full-Stack Developer | Cloud Enthusiast  
 
-💡 Passionate about building scalable web apps, solving complex problems, and creating impactful user-centered solutions.  
+Passionate about building scalable web apps, solving complex problems, and creating impactful user-centered solutions.  
 
 ---
 
