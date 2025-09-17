@@ -16,14 +16,12 @@
 
 ### 🚀 Featured Projects  
 
-[![Eventify](https://img.shields.io/badge/Eventify-%230A66C2.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/NagarajGolai/Eventify)  
-🔹 Full-stack Django app for event management with **secure authentication** & **QR-code ticketing**.  
+[![Eventify](https://img.shields.io/badge/Eventify-%230A66C2.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/NagarajGolai/Eventify)  Full-stack Django app for event management with **secure authentication** & **QR-code ticketing**.  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFB703.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/NagarajGolai/PF)  
-🔹 Responsive **personal portfolio website** with smooth animations & modern UI.  
+[![City Portal](https://img.shields.io/badge/City%20Portal-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NagarajGolai/City_Portal)  Django-based portal for **city services management** with secure login & dynamic content.  
 
-[![City Portal](https://img.shields.io/badge/City%20Portal-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NagarajGolai/City_Portal)  
-🔹 Django-based portal for **city services management** with secure login & dynamic content.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%D500FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/NagarajGolai/PF)   Responsive **personal portfolio website** with smooth animations & modern UI.  
+
 
 ---
 
